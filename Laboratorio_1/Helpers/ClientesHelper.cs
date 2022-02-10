@@ -34,34 +34,34 @@ namespace Laboratorio_1.Helpers
 
                new ClientesModel
             {
-                Nombre = "a",
-                Apellido = "Villa",
-                Telefono = 19022022,
-                Descripcion = "Ocupan"
+                Nombre = "Ramon",
+                Apellido = "Tomogan",
+                Telefono = 22022090,
+                Descripcion = "Maestro de Karate en Curitua"
             },
 
                new ClientesModel
             {
-                Nombre = "Pancho",
-                Apellido = "Villa",
-                Telefono = 19022022,
-                Descripcion = "Ocupan"
+                Nombre = "David",
+                Apellido = "Sevilla",
+                Telefono = 58904734,
+                Descripcion = "Locutor de RadioFuna"
             },
 
                new ClientesModel
             {
-                Nombre = "Pancho",
-                Apellido = "Villa",
-                Telefono = 19022022,
-                Descripcion = "Ocupan"
+                Nombre = "Imantado",
+                Apellido = "Garatea",
+                Telefono = 28550208,
+                Descripcion = "Streamer IRL en Buich"
             },
 
                new ClientesModel
             {
-                Nombre = "Pancho",
-                Apellido = "Villa",
-                Telefono = 19022022,
-                Descripcion = "Ocupan"
+                Nombre = "Arnaoldo",
+                Apellido = "Cifuentes",
+                Telefono = 63286545,
+                Descripcion = "Chef de Pizzas"
             }
         };
     }
